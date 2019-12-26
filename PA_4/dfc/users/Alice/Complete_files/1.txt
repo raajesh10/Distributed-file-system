@@ -1,0 +1,6 @@
+UserBenchmarks: Game 13%, Desk 37%, Work 22%
+CPU: Intel Core i5-7200U - 32.9%
+GPU: Intel HD 620 (Mobile Kaby Lake) - 4.6%
+HDD: Seagate ST2000LM003 HN-M201RAD 2TB - 55.6%
+RAM: Micron 8ATF1G64HZ-2G3B1 2x8GB - 69.3%
+MBD: HP Pavilion Notebook
